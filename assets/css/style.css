@@ -1,22 +1,43 @@
 * {
   margin: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
+/*body { 
+  background: url("../images/oscars.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+*/
+/*
 html,
 body {
   font: 18px arial, sans-serif;
   background: #eee;
   height: 100%;
 }
+*/
+/*font-family: 'Open Sans', sans-serif;*/
 
-h2 {
-  font-size: 30px;
+h1 {
+  font-family: 'Graduate', cursive;
+  font-size: 100px;
 }
 
+img {
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+/*
 .clear {
   padding: 30px;
 }
-
+*//*
 #animals {
   width: 70%;
 }
@@ -26,8 +47,8 @@ h2 {
   display: inline-grid;
   padding: 10px;
 }
-
-form {
+*/
+/*form {
   padding: 20px;
 }
 
@@ -66,10 +87,6 @@ button.active {
   background: #334E4D;
 }
 
-img {
-  vertical-align: middle;
-}
-
 .wrapper {
   min-height: 100%;
   height: auto !important;
@@ -81,4 +98,4 @@ img {
 .push {
   height: 4em;
   text-align: center;
-}
+}*/
